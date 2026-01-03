@@ -1,263 +1,428 @@
-# The Business - Claude AI Coordination Hub
+# How Claude Can Help - Graph Paper LLC
 
-Welcome to the central coordination point for all company operations and workflows. This repository serves as the single source of truth for company documentation, processes, and information.
-
-## 🎯 Purpose
-
-This repository is designed to help you efficiently manage all aspects of your business with Claude's assistance. Each function has its own specialized workflows and documentation tailored to that domain.
-
-## 📁 Repository Structure
-
-```
-the-business/
-├── CLAUDE.md (this file - coordination hub)
-├── README.md (repository overview)
-├── finance/
-│   ├── CLAUDE.md (finance-specific workflows)
-│   └── README.md
-├── fundraising/
-│   ├── CLAUDE.md (fundraising-specific workflows)
-│   └── README.md
-├── investor-relations/
-│   ├── CLAUDE.md (investor relations workflows)
-│   ├── investor-updates/
-│   └── README.md
-├── HR/
-│   ├── CLAUDE.md (HR-specific workflows)
-│   └── README.md
-├── legal/
-│   ├── CLAUDE.md (legal-specific workflows)
-│   └── README.md
-└── admin/
-    ├── CLAUDE.md (administrative workflows)
-    └── README.md
-```
-
-## 🔗 Quick Navigation to Specialized Workflows
-
-When working with Claude on specific company functions, reference the appropriate specialized CLAUDE.md file:
-
-### Finance
-📊 **[finance/CLAUDE.md](finance/CLAUDE.md)**
-- Financial planning and analysis
-- Budgeting and forecasting
-- Monthly financial close
-- Cash flow management
-- Financial reporting
-
-### Fundraising
-💰 **[fundraising/CLAUDE.md](fundraising/CLAUDE.md)**
-- Fundraising strategy and campaigns
-- Pitch deck development
-- Investor pipeline management
-- Data room preparation
-- Due diligence coordination
-
-### Investor Relations
-📈 **[investor-relations/CLAUDE.md](investor-relations/CLAUDE.md)**
-- Monthly investor updates
-- Board meeting preparation
-- Shareholder communications
-- Cap table management
-- Board governance
-
-### Human Resources
-👥 **[HR/CLAUDE.md](HR/CLAUDE.md)**
-- Recruiting and hiring
-- Employee onboarding/offboarding
-- Performance management
-- Compensation and benefits
-- Company culture and policies
-
-### Legal
-⚖️ **[legal/CLAUDE.md](legal/CLAUDE.md)**
-- Contract review and management
-- Corporate governance
-- Intellectual property protection
-- Compliance and risk management
-- Employment law
-
-### Administrative
-🔧 **[admin/CLAUDE.md](admin/CLAUDE.md)**
-- Vendor management
-- Procurement and purchasing
-- IT systems administration
-- Office management
-- Travel coordination
-
-## 🚀 How to Use This Repository
-
-### For General Inquiries
-When you need help with a specific company function:
-1. Navigate to the appropriate directory
-2. Reference that function's CLAUDE.md file
-3. Follow the workflows and best practices outlined
-
-### For Cross-Functional Work
-Many tasks span multiple functions. Common integration points:
-
-**Hiring a New Employee**
-→ HR (recruiting, offer) → Finance (budget, payroll) → Admin (equipment) → Legal (contracts)
-
-**Fundraising Round**
-→ Fundraising (pitch, pipeline) → Finance (projections) → Legal (documents) → Investor Relations (onboarding)
-
-**Board Meeting**
-→ Investor Relations (coordination) → Finance (financials) → HR (headcount) → All teams (updates)
-
-**Vendor Contract**
-→ Admin (sourcing) → Legal (review) → Finance (budget, payment)
-
-## 📋 Common Workflows
-
-### Monthly Cadence
-- **First Week**: Close previous month's books (Finance)
-- **First Week**: Send investor update (Investor Relations)
-- **Mid-Month**: Review metrics and KPIs (All functions)
-- **Month-End**: Prepare for next month's close (Finance)
-
-### Quarterly Cadence
-- Board meeting preparation (Investor Relations)
-- Quarterly business review (All functions)
-- Budget vs. actuals review (Finance)
-- OKR review and planning (All teams)
-- Vendor performance reviews (Admin)
-
-### Annual Cadence
-- Annual budget and planning (Finance)
-- Performance reviews (HR)
-- Board governance compliance (Legal, Investor Relations)
-- Strategic planning (Leadership)
-- Compensation reviews (HR, Finance)
-
-## 🎯 Claude Assistant General Instructions
-
-When assisting with any company function:
-
-1. **Understand Context** - Ask clarifying questions if the request is ambiguous
-2. **Reference Workflows** - Use the appropriate function's CLAUDE.md file
-3. **Maintain Standards** - Follow the documented processes and best practices
-4. **Cross-Reference** - Consider integration points with other functions
-5. **Document Work** - Keep clear records of decisions and actions
-6. **Stay Organized** - Use consistent file naming and folder structures
-7. **Be Proactive** - Anticipate needs and suggest improvements
-8. **Ensure Compliance** - Follow legal, financial, and regulatory requirements
-
-## 🔐 Confidentiality and Security
-
-This repository contains sensitive company information. Always:
-- Maintain strict confidentiality
-- Follow data protection best practices
-- Limit access to authorized personnel
-- Handle financial and personal data with care
-- Comply with privacy regulations (GDPR, CCPA, etc.)
-
-## 📊 Key Performance Indicators (KPIs)
-
-Each function should track relevant metrics. Core company-wide KPIs include:
-
-### Financial Health
-- Revenue (MRR/ARR)
-- Gross margin
-- Burn rate and runway
-- Cash balance
-
-### Growth
-- Customer acquisition
-- Revenue growth rate
-- User/engagement growth
-
-### Efficiency
-- CAC (Customer Acquisition Cost)
-- LTV (Lifetime Value)
-- LTV/CAC ratio
-- Rule of 40 (Growth + Profitability)
-
-### Team
-- Headcount and growth
-- Employee retention
-- Time to hire
-- Employee satisfaction
-
-## 🤝 Integration Points Matrix
-
-| Function | Integrates With | Key Touchpoints |
-|----------|-----------------|-----------------|
-| Finance | All functions | Budgets, metrics, reporting, vendor payments |
-| Fundraising | Finance, Legal, IR | Projections, documents, investor transition |
-| Investor Relations | Finance, HR, All | Metrics, updates, board materials |
-| HR | Finance, Legal, Admin | Compensation, contracts, onboarding |
-| Legal | All functions | Contracts, compliance, risk management |
-| Admin | Finance, HR, Legal | Vendors, procurement, IT support |
-
-## 📚 Best Practices Across All Functions
-
-1. **Documentation First** - Document processes, decisions, and rationale
-2. **Templates and Standards** - Use consistent templates for common tasks
-3. **Version Control** - Track changes and maintain history
-4. **Regular Reviews** - Periodically review and update processes
-5. **Communication** - Keep stakeholders informed
-6. **Continuous Improvement** - Learn from experience and optimize
-7. **Collaboration** - Work across functions effectively
-8. **Risk Management** - Identify and mitigate risks proactively
-
-## 🎓 Getting Started
-
-### New to This Repository?
-1. Read this CLAUDE.md file (you're doing it!)
-2. Review the main [README.md](README.md)
-3. Explore each function's directory and CLAUDE.md file
-4. Familiarize yourself with common workflows
-5. Ask Claude for help with specific tasks
-
-### Starting a New Task?
-1. Identify which function(s) the task involves
-2. Navigate to the appropriate CLAUDE.md file(s)
-3. Review relevant workflows and best practices
-4. Follow the documented process
-5. Document your work
-6. Update integration points as needed
-
-## 🔄 Keeping This Repository Current
-
-This repository should be a living document that evolves with your company:
-
-- **Regular Updates** - Review and update quarterly
-- **Process Improvements** - Document new workflows as they develop
-- **Template Refinement** - Improve templates based on usage
-- **Metrics Evolution** - Adjust KPIs as the company grows
-- **Scaling Structure** - Add subdirectories and processes as needed
-
-## 📞 Need Help?
-
-When working with Claude:
-- Be specific about which function and task you need help with
-- Reference the appropriate specialized CLAUDE.md file
-- Provide context about your company stage and situation
-- Ask for clarification if instructions are unclear
-- Share feedback to improve workflows
-
-## 🌟 Company Values and Culture
-
-As you work through these processes, remember to:
-- Act with integrity in all business dealings
-- Treat employees, customers, and partners with respect
-- Make data-driven decisions
-- Move quickly but thoughtfully
-- Build for long-term success
-- Foster transparency and open communication
-- Embrace continuous learning and improvement
+This document outlines how I (Claude) can assist you with managing Graph Paper LLC operations.
 
 ---
 
-## Version History
+## Current Priorities
 
-- **v1.0** - 2026-01-03: Initial repository structure and workflows
+**Last Updated:** [Date]
+
+**This Week's Focus:**
+1. [Priority 1]
+2. [Priority 2]
+3. [Priority 3]
+
+**Upcoming Deadlines:**
+- [Date]: [Deadline]
+- [Date]: [Deadline]
 
 ---
 
-**Welcome to organized company operations!** 🚀
+## How I Can Help
 
-This structure is designed to scale with your company from early-stage startup through growth and beyond. Each function has room to expand while maintaining clear organization and efficient workflows.
+### 📊 Formation & Compliance
 
-For function-specific workflows, navigate to the appropriate directory and reference that area's CLAUDE.md file.
+**Track Deadlines**
+- "What are my upcoming compliance deadlines?"
+- "When is Arkansas franchise tax due?"
+- "Remind me of quarterly tax payment dates"
+
+**Help with Filings**
+- Guide through annual franchise tax filing
+- Assist with DBA registration process
+- Explain LLC compliance requirements
+
+**Manage Contacts**
+- Update contact information
+- Track vendor relationships
+- Maintain professional services list
+
+### 💰 Finance & Accounting
+
+**Expense Tracking**
+- "Is [expense] tax deductible?"
+- "What category should I use for [expense]?"
+- "Help me categorize this month's expenses"
+
+**Tax Planning**
+- Calculate quarterly estimated taxes
+- Identify tax-saving opportunities
+- Prepare year-end tax checklist
+
+**Financial Reports**
+- Generate P&L summaries
+- Track income by revenue stream
+- Monitor budget vs. actuals
+
+**Bookkeeping**
+- Help categorize transactions
+- Reconcile accounts
+- Prepare for CPA meetings
+
+### 👔 Client Management (Consulting)
+
+**Proposals & Contracts**
+- Draft client proposals using templates
+- Customize contract terms
+- Create SOWs (Statements of Work)
+
+**Pricing**
+- Calculate project estimates
+- Recommend pricing strategy
+- Create custom rate packages
+
+**Onboarding**
+- Guide through client onboarding checklist
+- Set up project tracking
+- Prepare kickoff materials
+
+**Project Management**
+- Track project milestones
+- Prepare status updates
+- Calculate project profitability
+
+### 🎁 Ladybug Gifts (DBA)
+
+**Event Planning**
+- Plan pop-up event logistics
+- Create event packing checklist
+- Track event performance
+
+**Inventory Management**
+- Track inventory levels
+- Calculate reorder points
+- Manage supplier relationships
+
+**Financial Tracking**
+- Calculate profit margins
+- Track cost of goods sold
+- Reconcile sales tax
+
+### 🏠 Bless This Mess (DBA)
+
+**Client Projects**
+- Draft service proposals
+- Create project checklists
+- Prepare client handouts
+
+**Operations**
+- Design service packages
+- Calculate pricing for custom projects
+- Create marketing content
+
+**Business Development**
+- Draft marketing materials
+- Create social media content
+- Develop partnership outreach
+
+### 🚀 Heirloom OS (Product)
+
+**Product Planning**
+- Refine product requirements
+- Prioritize roadmap features
+- Create user stories
+
+**Documentation**
+- Write technical specifications
+- Draft user documentation
+- Create release notes
+
+**Go-to-Market**
+- Plan launch strategy
+- Create marketing materials
+- Define success metrics
+
+### ⚖️ Legal & Contracts
+
+**Contract Management**
+- Customize contract templates
+- Review contract terms (flag issues for attorney)
+- Track contract renewals
+
+**Compliance**
+- Explain legal requirements
+- Prepare for attorney meetings
+- Organize legal documents
+
+---
+
+## Common Tasks & Commands
+
+### Quick Financial Tasks
+
+**"Calculate my estimated taxes"**
+→ I'll help you calculate quarterly estimated tax payments based on YTD income
+
+**"Categorize these expenses"**
+→ Share expense list and I'll suggest proper categories from your chart of accounts
+
+**"Prepare for tax season"**
+→ I'll create a checklist of documents to gather for your CPA
+
+### Quick Client Tasks
+
+**"Draft a proposal for [client/project]"**
+→ I'll use your template and customize for the specific engagement
+
+**"Create an invoice for [client]"**
+→ I'll help structure the invoice with proper line items and terms
+
+**"Onboard new client [name]"**
+→ I'll walk through the onboarding checklist step-by-step
+
+### Quick Compliance Tasks
+
+**"What's due this month?"**
+→ I'll check your compliance calendar and list upcoming deadlines
+
+**"Help me file franchise tax"**
+→ I'll guide you through the Arkansas SOS filing process
+
+**"Update my contacts list"**
+→ I'll help you add or update professional contacts
+
+---
+
+## Working Style
+
+### What I Can Do Well
+✅ **Draft documents** from templates
+✅ **Calculate and analyze** financial data
+✅ **Organize and structure** information
+✅ **Create checklists** and workflows
+✅ **Explain concepts** and requirements
+✅ **Research** business topics
+✅ **Brainstorm** ideas and strategies
+✅ **Review** documents for issues (not legal advice)
+
+### What to Verify
+⚠️ **Tax advice** - Confirm with your CPA
+⚠️ **Legal terms** - Have attorney review contracts
+⚠️ **Calculations** - Double-check math for important decisions
+⚠️ **Deadlines** - Verify with official sources
+⚠️ **State-specific rules** - Confirm Arkansas regulations
+
+### When to Involve Professionals
+🔴 **Always use CPA for:** Tax filing, audit issues, complex tax situations
+🔴 **Always use attorney for:** Legal disputes, complex contracts, litigation
+🔴 **Always verify:** Compliance deadlines with official state websites
+
+---
+
+## Repository Navigation
+
+### When You Need...
+
+**Tax information**
+→ See `finance/tax-deadlines.md` and `finance/chart-of-accounts.md`
+
+**Expense guidance**
+→ See `finance/policies/expense-policy.md`
+
+**Client templates**
+→ See `clients/` directory
+
+**DBA operations**
+→ See `dba/ladybug-gifts/` or `dba/bless-this-mess/`
+
+**Product planning**
+→ See `products/heirloom-os/`
+
+**Compliance info**
+→ See `formation/` directory
+
+**Legal templates**
+→ See `legal/contracts/`
+
+---
+
+## Monthly Workflows
+
+### First Week of Month
+- [ ] Close previous month's books
+- [ ] Categorize all expenses
+- [ ] Reconcile bank accounts
+- [ ] Review revenue by stream
+- [ ] Update compliance calendar
+- [ ] Check upcoming deadlines
+
+**Ask Claude:**
+- "Help me close last month's books"
+- "What deadlines are coming up?"
+
+### Mid-Month
+- [ ] Review project progress
+- [ ] Follow up with clients
+- [ ] Update product roadmap
+- [ ] Plan upcoming events (Ladybug Gifts)
+- [ ] Schedule client projects (Bless This Mess)
+
+**Ask Claude:**
+- "Help me prepare client status updates"
+- "Create event planning checklist"
+
+### End of Month
+- [ ] Prepare next month's goals
+- [ ] Review and adjust budget
+- [ ] Plan marketing activities
+- [ ] Invoice all clients
+- [ ] Track payment status
+
+**Ask Claude:**
+- "Help me set goals for next month"
+- "Draft invoices for this month's work"
+
+---
+
+## Quarterly Workflows
+
+### Every Quarter
+- [ ] Calculate and pay estimated taxes
+- [ ] Review financial performance
+- [ ] Update product roadmaps
+- [ ] Analyze revenue streams
+- [ ] Review and update rates
+- [ ] Plan next quarter's priorities
+
+**Ask Claude:**
+- "Calculate my Q[X] estimated taxes"
+- "Analyze this quarter's financial performance"
+- "Help plan next quarter's priorities"
+
+---
+
+## Annual Workflows
+
+### Tax Season (January - April)
+- [ ] Gather all tax documents
+- [ ] Prepare Schedule C documentation
+- [ ] Calculate home office deduction
+- [ ] Compile mileage logs
+- [ ] Meet with CPA
+- [ ] File returns by April 15
+
+**Ask Claude:**
+- "Create my tax preparation checklist"
+- "Calculate my home office deduction"
+
+### Mid-Year (June - July)
+- [ ] Review first half performance
+- [ ] Adjust second half strategy
+- [ ] Update business goals
+- [ ] Review and refresh marketing
+
+**Ask Claude:**
+- "Analyze H1 vs. H2 performance"
+- "Help me adjust second half strategy"
+
+### Year-End (November - December)
+- [ ] Maximize deductible expenses
+- [ ] Review annual goals
+- [ ] Plan next year's strategy
+- [ ] Update all templates and documents
+- [ ] Archive completed projects
+
+**Ask Claude:**
+- "Help me plan year-end tax strategies"
+- "Set goals for next year"
+
+---
+
+## Emergency / Urgent Situations
+
+### If You Need to...
+
+**Quickly draft a client proposal**
+→ "I need a proposal for [brief description] by [deadline]"
+
+**Understand a tax deadline**
+→ "What happens if I miss [deadline]? What should I do?"
+
+**Resolve a client issue**
+→ "Client situation: [describe]. Help me draft response."
+
+**Make a quick business decision**
+→ "Should I [decision]? Help me think through pros/cons."
+
+---
+
+## Custom Requests
+
+**I can help with anything related to:**
+- Business operations and workflows
+- Financial analysis and planning
+- Document drafting and editing
+- Research and information gathering
+- Strategic thinking and brainstorming
+- Organization and project management
+- Communication and marketing
+- Process improvement
+
+**Just ask! Examples:**
+- "Help me plan a new service offering"
+- "How should I structure this partnership?"
+- "Draft a marketing email for [target audience]"
+- "Research [business topic]"
+- "Create a process for [workflow]"
+
+---
+
+## Tips for Working Together
+
+### Best Practices
+✅ **Be specific** about what you need
+✅ **Provide context** about your situation
+✅ **Ask follow-up questions** to refine outputs
+✅ **Use templates** in this repo as starting points
+✅ **Verify important** details with professionals
+
+### Examples of Good Requests
+✅ "Draft a proposal for a 3-month web development project, $45K budget, for a healthcare client"
+✅ "I spent $1,200 on a new laptop. Is it deductible? How should I handle it?"
+✅ "Help me prepare for my Q2 estimated tax payment - here's my YTD income..."
+
+### Less Effective Requests
+❌ "Write a proposal" (too vague - what kind?)
+❌ "Is this deductible?" (need more context - what is 'this'?)
+❌ "Do my taxes" (I can help prepare, but CPA should file)
+
+---
+
+## Quick Reference
+
+**Need help?** Start with:
+- "What can you help me with for [area]?"
+- "I need to [task], where do I start?"
+- "Explain [concept] for a small LLC"
+
+**Have a deadline?** Tell me:
+- "I need [deliverable] by [date/time]"
+- "This is urgent: [situation]"
+- "Quick question: [question]"
+
+**Want to brainstorm?** Try:
+- "Help me think through [decision/strategy]"
+- "What are my options for [situation]?"
+- "Pros and cons of [choice]?"
+
+---
+
+## Updates & Feedback
+
+**This document should evolve with your business.**
+
+**Update when:**
+- Business priorities change
+- New workflows are established
+- You find better ways to work together
+- New business lines added
+
+**Last reviewed:** [Date]
+**Next review:** [Date - suggest quarterly]
+
+---
+
+**Let's build your business together!** 📐
+
+What would you like to work on today?
